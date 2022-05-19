@@ -30,6 +30,7 @@
     align-items: center;
     height: auto;
     width: 100%;
+    text-align: left;
   }
 
   .g-card-body .card-text {

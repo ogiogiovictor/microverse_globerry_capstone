@@ -25,6 +25,8 @@ To get a local copy up and running follw these simple example steps:
 The Webpage is now deployed using github pages. See url link below:
 [live demo]( https://ogiogiovictor.github.io/microverse_globerry_capstone/)
 
+# Video Link
+The video describe the project and some key code snippets of the projec
 
 # Authors 👤
 - GitHub: @ogiogiovictor
