@@ -8,7 +8,7 @@ Globerry fashion school helps student learn how to design and sew clothes from s
 # Built With 
 - HTML
 - CSS (Flexbox | Grid System)
-- Linters: Webhint, Stylelint, & ESLint
+- Linters: Webhint, Stylelint & ESLint
 - Javascript
 
 # Getting Started
