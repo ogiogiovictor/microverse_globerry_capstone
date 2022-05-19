@@ -23,7 +23,7 @@ To get a local copy up and running follw these simple example steps:
 
 # Website URL - Github Pages
 The Webpage is now deployed using github pages. See url link below:
-[live demo]( https://ogiogiovictor.github.io/microverse_porfolio_project/)
+[live demo]( https://ogiogiovictor.github.io/microverse_globerry_capstone/)
 
 
 # Authors 👤
