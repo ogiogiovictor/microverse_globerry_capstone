@@ -20,6 +20,19 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+.top-img {
+  width: 150px;
+}
+
+.about-img {
+  width: 400px;
+}
+
+.partners {
+  width: 80px;
+  height: 80px;
+}
+
 .nopadding {
   padding: 0 !important;
   margin: 0 !important;
@@ -104,7 +117,7 @@ ul li a:hover {
   text-transform: uppercase;
   letter-spacing: 5px;
   background: url("../../images/2010.PNG") 100% 100%;
-   -webkit-text-fill-color: transparent; 
+  -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
 
