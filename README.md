@@ -27,6 +27,7 @@ The Webpage is now deployed using github pages. See url link below:
 
 # Video Link
 The video describe the project and some key code snippets of the projec
+[Video Link](https://www.loom.com/share/4d2def2e5d404338b221be85ee1b5465 )
 
 # Authors 👤
 - GitHub: @ogiogiovictor
