@@ -26,6 +26,98 @@ body {
 
 .about-img {
   width: 400px;
+  position: relative;
+
+  /* box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2); */
+}
+
+.fashion-events {
+  display: flex;
+  flex-direction: row;
+}
+
+.wrapper {
+  background: url("../../images/20111.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 350px;
+  height: 300px;
+  justify-content: center;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.content {
+  background-color: rgba(207, 18, 18, 0.667);
+  width: 100%;
+  height: 100%;
+  color: var(--bgwhite);
+}
+
+.content p {
+  font-family: 'Cocogoose', sans-serif;
+  font-size: 20px;
+  padding-top: 100px;
+}
+
+.content div {
+  font-family: 'Lato', sans-serif;
+}
+
+.wrapper2 {
+  background: url("../../images/20112.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 350px;
+  height: 300px;
+  justify-content: center;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.content2 {
+  background-color: rgba(207, 18, 18, 0.667);
+  width: 100%;
+  height: 100%;
+  color: var(--bgwhite);
+}
+
+.content2 p {
+  font-family: 'Cocogoose', sans-serif;
+  font-size: 20px;
+  padding-top: 100px;
+}
+
+.content2 div {
+  font-family: 'Lato', sans-serif;
+}
+
+.wrapper3 {
+  background: url("../../images/tailor.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 350px;
+  height: 300px;
+  justify-content: center;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.content3 {
+  background-color: rgba(207, 18, 18, 0.667);
+  width: 100%;
+  height: 100%;
+  color: var(--bgwhite);
+}
+
+.content3 p {
+  font-family: 'Cocogoose', sans-serif;
+  font-size: 20px;
+  padding-top: 100px;
+}
+
+.content3 div {
+  font-family: 'Lato', sans-serif;
 }
 
 .partners {
@@ -116,9 +208,10 @@ ul li a:hover {
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 5px;
-  background: url("../../images/2010.PNG") 100% 100%;
+
+  /* background: url("../../images/2010.PNG") 100% 100%;
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  -webkit-background-clip: text; */
 }
 
 h5 {
@@ -126,7 +219,7 @@ h5 {
 }
 
 .contentbg {
-  background-image: url('../../images/2016.jpg');  /* G, glo_scl, measure, measuring, bg */
+  background-image: url('../../images/2016-blur.png');  /* G, glo_scl, measure, measuring, bg */
   background-size: cover;
   background-repeat: no-repeat;
   height: 600px;
@@ -192,10 +285,6 @@ h5 {
 }
 
 /**************** Transition image shake *****************/
-.past-trainings img {
-  padding-left: 40px;
-}
-
 .g-card-body img:hover {
   animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
   transform: translate3d(0, 0, 0);

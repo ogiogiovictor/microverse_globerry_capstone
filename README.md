@@ -45,5 +45,5 @@ Kindly give a :hearts: if you like this.
 
 # Acknowledgement
 - I expressed my gratitude for everyone.
-
+- I also acknowledge Cindy Shin - GUI & Graphics Designer (https://www.behance.net/adagio07)
 

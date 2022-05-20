@@ -87,4 +87,8 @@
     font-size: 30px;
     text-align: right;
   }
+
+  .events {
+    flex-direction: column;
+  }
 }
