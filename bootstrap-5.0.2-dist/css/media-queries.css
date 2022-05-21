@@ -17,6 +17,10 @@
     flex-direction: column;
   }
 
+  .subtitle_abt {
+    width: 100%;
+  }
+
   /* .g-card-body {
     height: auto;
     width: 100%;
@@ -90,5 +94,24 @@
 
   .events {
     flex-direction: column;
+  }
+
+  .fashion-events {
+    flex-direction: column;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .wrapper2 {
+    margin-top: 20px;
+  }
+
+  .make-dark img {
+    width: 100%;
+  }
+
+  .past-trainings p {
+    padding-left: 40px;
+    padding-right: 40px;
   }
 }
