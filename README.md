@@ -1,73 +1,49 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Fashion Capstone Project A
+Globerry Fashion Training School
+The project is a fashion training school where student learn how to design and develop their craft
 
-# Project Name
+# About Project
+Globerry fashion school helps student learn how to design and sew clothes from scratch. It empowers youth and young talent and help them grow and nurture their skills
 
-> Description the project.
+# Built With 
+- HTML
+- CSS (Flexbox | Grid System)
+- Linters: Webhint, Stylelint & ESLint
+- Javascript
 
+# Getting Started
+To get a local copy up and running follw these simple example steps:
 
-## Built With
+```
+    - Select the link with the code on the https code table in the repo
+    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/microverse_globerry_capstone
+    - $ cd into the directory
+    - $ Open the index.html file in a browser.
+```
 
-- Major languages
-- Frameworks
-- Technologies used
+# Website URL - Github Pages
+The Webpage is now deployed using github pages. See url link below:
+[live demo]( https://ogiogiovictor.github.io/microverse_globerry_capstone/)
 
-## Live Demo (if available)
+# Video Link
+The video describe the project and some key code snippets of the projec
+[Video Link](https://www.loom.com/share/4d2def2e5d404338b221be85ee1b5465 )
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+# Authors 👤
+- GitHub: @ogiogiovictor
+-Twitter: [Ogiogio Victor](https://twitter.com/a0df623fb9d9482)
+-LinkedIn:  [Ogiogio Victor](https://www.linkedin.com/in/ogiogio-victor-a096a0181/)
 
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
-## Show your support
+# Show your support
+Kindly give a :hearts: if you like this.
 
-Give a ⭐️ if you like this project!
+# Acknowledgement
+- I expressed my gratitude for everyone.
+- I also acknowledge Cindy Shin - GUI & Graphics Designer (https://www.behance.net/adagio07)
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
