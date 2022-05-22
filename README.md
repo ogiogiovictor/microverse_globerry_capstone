@@ -4,6 +4,7 @@ The project is a fashion training school where student learn how to design and d
 
 # About Project
 Globerry fashion school helps student learn how to design and sew clothes from scratch. It empowers youth and young talent and help them grow and nurture their skills
+![image](https://user-images.githubusercontent.com/46789910/169712514-d515525f-275a-4fb0-8a09-8f7c126a82a5.png)
 
 # Built With 
 - HTML
