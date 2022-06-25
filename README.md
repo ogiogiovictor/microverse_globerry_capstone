@@ -1,9 +1,10 @@
-# Fashion Capstone Project A
+# Fashion Training School
 Globerry Fashion Training School
-The project is a fashion training school where student learn how to design and develop their craft
+The project is a fashion training school where student learn how to design and develop sewing and tailoring and also choose from experience fashion designers to learn from. The Project is built with HTML and CSS
 
 # About Project
 Globerry fashion school helps student learn how to design and sew clothes from scratch. It empowers youth and young talent and help them grow and nurture their skills
+
 ![image](https://user-images.githubusercontent.com/46789910/169712634-5123cd09-403c-4d13-a033-c972b2ab42e6.png)
 
 # Built With 
